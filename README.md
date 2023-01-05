@@ -30,7 +30,7 @@
 
 
 <div style="width: 100%; padding: 1%;">
-    <img style="width: 300px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
+    <img style="width: 400px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
     <h1 align="center">Even my failures are a part of who I am today.</h1>
     <ul>
         <li><a href="https://github.com/valentineskii">GitHub</a></li>
@@ -46,7 +46,7 @@
 
 <div style="width: 100%; padding: 1%;">
     <img style="width: 300px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
-    <h1>It’s a terrible day for rain.</h1>
+    <h1 align="center">It’s a terrible day for rain.</h1>
 </div>
 
 <!--
