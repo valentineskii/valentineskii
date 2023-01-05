@@ -25,7 +25,7 @@
 
 # Even my failures are a part of who I am today.
 
-<div align="center" style="width: 80%; height: 400; border: 2px solid white;">
+<div style="width: 80%; height: 400; border: 2px solid white;">
     <img align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
     <ul>
         <li><a href="https://github.com/valentineskii">GitHub</a></li>
@@ -36,11 +36,11 @@
     </ul>
 </div>
 
-# Waku Waku!
-
 <div align="center">
     <img width="540" height="300" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
 </div>
+
+# Waku Waku!
 
 <div>
     <p>
