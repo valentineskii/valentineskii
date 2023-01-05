@@ -9,14 +9,20 @@
     <h1>Letters don't always have to be filled with lots of flowery language.</h1>
 </div>
 <div style="width: 100%; padding: 1%;">
-    <h3>About</h3> 
-    <p>TBD</p>    
+    <div>
+        <h3>About</h3> 
+        <p>TBD</p>
+    </div>
     
-    <h3>Experience</h3> 
-    <p>TBD</p>    
+    <div>
+        <h3>Experience</h3> 
+        <p>TBD</p>    
+    </div>
     
-    <h3>Projects</h3> 
-    <p>Planning to release MVPs of my language, tools and engine to open-source in 2025.</p> 
+    <div>
+        <h3>Projects</h3> 
+        <p>Planning to release MVPs of my language, tools and engine to open-source in 2025.</p> 
+    </div>
 </div>   
 
 
