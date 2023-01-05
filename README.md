@@ -8,8 +8,10 @@
     </p>
 </div>
 
-<img width="540" height="300" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
-<img width="540" height="350" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
+<div align="center">
+    <img width="540" height="300" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
+    <img width="540" height="350" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
+</div>
 
 <div>
     <p>
