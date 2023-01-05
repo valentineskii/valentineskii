@@ -4,12 +4,21 @@
     <img align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
     <p>
         GitHub @valentineskii<br>
-        EMail valentin.dobrinskii@gmail.com<br>
-        
+        EMail valentin.dobrinskii@gmail.com
     </p>
 </div>
-<img align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
-<img align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
+
+<style>
+.center-me {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+
+<img class="center-me" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
+<img class="center-me" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
 
 <div>
     <p>
