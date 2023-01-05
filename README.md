@@ -38,7 +38,6 @@
         <li><a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a></li>
         <li><a href="https://t.me/lordkaelthas">Telegram</a></li>
         <li><a href="https://open.spotify.com/user/hgmca7zdxo58ibbjomksoenqc?si=a5e7ef66cbf74dd3">Spotify</a></li>
-        <li><a href="https://valentineskii.github.io/">GOAT list</a></li>
     </ul>
 </div>
 
@@ -47,6 +46,9 @@
 <div style="width: 100%; padding: 1%;">
     <img style="width: 400px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
     <h1 align="center">It’s a terrible day for rain.</h1>
+    <ul>
+        <li><a href="https://valentineskii.github.io/">GOAT list</a></li>
+    </ul>
 </div>
 
 <!--
