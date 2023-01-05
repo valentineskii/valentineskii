@@ -1,16 +1,43 @@
-<h1>developing dreams</h1>
+# It’s a terrible day for rain.
+
+<div align="center">
+    <img width="540" height="350" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
+</div>
+
+# Letters don't always have to be filled with lots of flowery language.
+
+<div align="center">
+    <img width="540" height="350" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
+</div>
+
+### ABOUT 
+
+... TBD ... 
+
+### EXPERIENCE
+
+... TBD ...
+
+### PROJECTS
+
+... Planning to release MVPs of my language, tools and engine to open-source in 2025 ... 
+
+
+# Even my failures are a part of who I am today.
+
 <div>
-    <h2>Contact me</h2>
     <img align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
     <p>
         GitHub @valentineskii<br>
         EMail valentin.dobrinskii@gmail.com
+        <a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a> 
     </p>
 </div>
 
+# Waku Waku!
+
 <div align="center">
     <img width="540" height="300" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
-    <img width="540" height="350" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
 </div>
 
 <div>
