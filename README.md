@@ -10,17 +10,17 @@
 <div>
     <h3>About</h3> 
     <p>
-        ... TBD ...
+    TBD
     </p>    
     
     <h3>Experience</h3> 
     <p>
-        ... TBD ...
+    TBD
     </p>    
     
     <h3>Projects</h3> 
     <p>
-        ... Planning to release MVPs of my language, tools and engine to open-source in 2025 ... 
+        Planning to release MVPs of my language, tools and engine to open-source in 2025.
     </p> 
 </div>   
 
