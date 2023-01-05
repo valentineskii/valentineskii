@@ -25,11 +25,11 @@
 
 # Even my failures are a part of who I am today.
 
-<div>
+<div height="300">
     <img align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
     <p>
         GitHub @valentineskii<br>
-        EMail valentin.dobrinskii@gmail.com
+        EMail valentin.dobrinskii@gmail.com<br>
         <a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a> 
     </p>
 </div>
