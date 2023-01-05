@@ -1,3 +1,12 @@
+<style>
+.center-me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+</style>
+
 <h1>developing dreams</h1>
 <div>
     <h2>Contact me</h2>
@@ -7,15 +16,6 @@
         EMail valentin.dobrinskii@gmail.com
     </p>
 </div>
-
-<style>
-.center-me {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
 
 <img class="center-me" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
 <img class="center-me" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
