@@ -13,12 +13,12 @@
 
 <div style="width: 100%; padding: 1%;">
     <div>
-        <h3>About</h3> 
         <p>
+            <h3>About</h3> 
             <span>tbd</span>
-            <h4>Experience</h4>
+            <h3>Experience</h4>
             <span>tbd</span> 
-            <h4>Projects</h4> 
+            <h3>Projects</h4> 
             <span>Planning to release MVPs of my language, tools and engine to open-source in 2025.</span> 
         </p>
     </div>
