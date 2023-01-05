@@ -1,13 +1,15 @@
-<h1>Developing dreams</h1>
+<h1>developing dreams</h1>
 <div>
+    <h2>Contact me</h2>
     <img align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
     <p>
-        My name is Valentin Dobrinskii => @valentineskii;<br>
-        You can contact me by email: valentin.dobrinskii@gmail.com;
+        GitHub @valentineskii<br>
+        EMail valentin.dobrinskii@gmail.com<br>
+        
     </p>
 </div>
-<img src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
-<img src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
+<img align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
+<img align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
 
 <div>
     <p>
