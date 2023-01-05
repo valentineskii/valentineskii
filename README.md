@@ -37,10 +37,10 @@
 </div>
 
 <div align="center">
+# Waku Waku!
     <img width="540" height="300" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
 </div>
 
-# Waku Waku!
 
 <div>
     <p>
