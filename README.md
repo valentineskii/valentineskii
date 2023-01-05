@@ -45,7 +45,7 @@
 <br><br>
 
 <div style="width: 100%; padding: 1%;">
-    <img style="width: 300px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
+    <img style="width: 400px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
     <h1 align="center">It’s a terrible day for rain.</h1>
 </div>
 
