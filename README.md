@@ -8,12 +8,15 @@
     <img style="width: 300px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
     <h1>Letters don't always have to be filled with lots of flowery language.</h1>
 </div>
+
+<br>
+
 <div style="width: 100%; padding: 1%;">
     <div>
         <h3>About</h3> 
         <p>TBD</p>
     </div>
-    
+
     <div>
         <h3>Experience</h3> 
         <p>TBD</p>    
