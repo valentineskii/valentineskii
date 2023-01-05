@@ -16,9 +16,9 @@
         <p>
             <h3>About</h3> 
             <span>tbd</span>
-            <h3>Experience</h4>
+            <h3>Experience</h3>
             <span>tbd</span> 
-            <h3>Projects</h4> 
+            <h3>Projects</h3> 
             <span>Planning to release MVPs of my language, tools and engine to open-source in 2025.</span> 
         </p>
     </div>
@@ -42,7 +42,7 @@
 <div style="width: 100%; padding: 1%;">
     <img style="width: 400px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
     <h1 align="center">It’s a terrible day for rain.</h1>
-    <ul>
+    <ul style="margin-left: 10px;">
         <li><a href="https://valentineskii.github.io/">GOAT list</a></li>
     </ul>
 </div>
