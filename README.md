@@ -5,8 +5,8 @@
 
 
 <div>
-    <img style="width: 50%; margin-right: 10px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
-    <h1>Letters don't always have to be filled with lots of flowery language.</h1>
+    <img style="width: 48%; margin-right: 2%;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
+    <h1 style="width: 48%;">Letters don't always have to be filled with lots of flowery language.</h1>
 </div>
 
 ### ABOUT 
@@ -23,8 +23,8 @@
 
 
 <div>
-    <img style="width: 50%; margin-left: 10px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
-    <h1>Even my failures are a part of who I am today.</h1>
+    <img style="width: 48%; margin-left: 2%;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
+    <h1 style="width: 48%;">Even my failures are a part of who I am today.</h1>
     <ul>
         <li><a href="https://github.com/valentineskii">GitHub</a></li>
         <li><a href="mailto:valentin.dobrinskii@gmail.com">EMail</a></li>
@@ -38,8 +38,8 @@
 <br><br>
 
 <div>
-    <img style="width: 50%; margin-right: 10px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
-    <h1>It’s a terrible day for rain.</h1>
+    <img style="width: 48%; margin-right: 2%;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
+    <h1 style="width: 48%;">It’s a terrible day for rain.</h1>
 </div>
 
 <!--
