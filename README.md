@@ -1,6 +1,6 @@
 <h1>Developing dreams</h1>
 <div>
-    <img style="float: right;" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
+    <img align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
     <p>
         My name is Valentin Dobrinskii => @valentineskii;<br>
         You can contact me by email: valentin.dobrinskii@gmail.com;
