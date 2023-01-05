@@ -1,11 +1,11 @@
-# Waku Waku!
 <div align="center">
+    <h1>Waku Waku!</h1>
     <img width="540" height="300" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
 </div>
 
-# Letters don't always have to be filled with lots of flowery language.
-<div align="center">
-    <img width="540" height="350" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
+<div>
+    <img width="540" height="350" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
+    <h1>Letters don't always have to be filled with lots of flowery language.</h1>
 </div>
 
 ### ABOUT 
@@ -33,6 +33,8 @@
         <li><a href="https://valentineskii.github.io/">GOAT list</a></li>
     </ul>
 </div>
+
+<br><br>
 
 <div>
     <img width="540" height="350" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
