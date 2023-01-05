@@ -3,8 +3,9 @@
     <img width="540" height="300" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
 </div>
 
+
 <div>
-    <img width="540" height="350" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
+    <img style="height: 350px; margin-right: 10px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
     <h1>Letters don't always have to be filled with lots of flowery language.</h1>
 </div>
 
@@ -21,8 +22,8 @@
 ... Planning to release MVPs of my language, tools and engine to open-source in 2025 ... 
 
 
-<div style="width: 80%; height: 400; border: 2px solid white;">
-    <img align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
+<div style="width: 80%; height: 400px; border: 2px solid white;">
+    <img style="margin-left: 10px; height: 300px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
     <h1>Even my failures are a part of who I am today.</h1>
     <ul>
         <li><a href="https://github.com/valentineskii">GitHub</a></li>
@@ -37,7 +38,7 @@
 <br><br>
 
 <div>
-    <img width="540" height="350" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
+    <img style="height: 350px; margin-right: 10px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
     <h1>It’s a terrible day for rain.</h1>
 </div>
 
