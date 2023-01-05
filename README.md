@@ -3,11 +3,6 @@
     <img width="540" height="300" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
 </div>
 
-# It’s a terrible day for rain.
-<div align="center">
-    <img width="540" height="350" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
-</div>
-
 # Letters don't always have to be filled with lots of flowery language.
 <div align="center">
     <img width="540" height="350" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
@@ -37,6 +32,11 @@
         <li><a href="https://open.spotify.com/user/hgmca7zdxo58ibbjomksoenqc?si=a5e7ef66cbf74dd3">Spotify</a></li>
         <li><a href="https://valentineskii.github.io/">GOAT list</a></li>
     </ul>
+</div>
+
+# It’s a terrible day for rain.
+<div align="center">
+    <img width="540" height="350" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
 </div>
 
 <!--
