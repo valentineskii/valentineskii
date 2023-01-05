@@ -27,12 +27,12 @@
 
 <div style="height: 300; border: 1px solid white;">
     <img align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
-    <p>
-        <a href="https://github.com/valentineskii">GitHub</a><br>
-        <a href="mailto:valentin.dobrinskii@gmail.com">EMail</a><br>
-        <a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a><br>
-        <a href="https://t.me/lordkaelthas">Telegram</a> 
-    </p>
+    <ul>
+        <li><a href="https://github.com/valentineskii">GitHub</a></li>
+        <li><a href="mailto:valentin.dobrinskii@gmail.com">EMail</a></li>
+        <li><a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a></li>
+        <li><a href="https://t.me/lordkaelthas">Telegram</a></li>
+    </ul>
 </div>
 
 # Waku Waku!
