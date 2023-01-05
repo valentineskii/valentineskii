@@ -21,9 +21,9 @@
 ... Planning to release MVPs of my language, tools and engine to open-source in 2025 ... 
 
 
-# Even my failures are a part of who I am today.
 <div style="width: 80%; height: 400; border: 2px solid white;">
     <img align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
+    <h1>Even my failures are a part of who I am today.</h1>
     <ul>
         <li><a href="https://github.com/valentineskii">GitHub</a></li>
         <li><a href="mailto:valentin.dobrinskii@gmail.com">EMail</a></li>
@@ -34,9 +34,9 @@
     </ul>
 </div>
 
-# It’s a terrible day for rain.
-<div align="center">
-    <img width="540" height="350" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
+<div>
+    <img width="540" height="350" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
+    <h1>It’s a terrible day for rain.</h1>
 </div>
 
 <!--
