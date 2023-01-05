@@ -7,8 +7,6 @@
     <img style="width: 300px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
     <h1>Letters don't always have to be filled with lots of flowery language.</h1>
     
-    <hr>
-
     <h3>About</h3> 
     <p>
         ... TBD ...
