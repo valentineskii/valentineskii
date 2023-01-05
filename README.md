@@ -6,19 +6,25 @@
 <div style="width: 100%; padding: 1%;">
     <img style="width: 300px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
     <h1>Letters don't always have to be filled with lots of flowery language.</h1>
+    
+    <hr>
+
+    <h3>About</h3> 
+    <p>
+        ... TBD ...
+    </p>    
+    
+    <h3>Experience</h3> 
+    <p>
+        ... TBD ...
+    </p>    
+    
+    <h3>Projects</h3> 
+    <p>
+        ... Planning to release MVPs of my language, tools and engine to open-source in 2025 ... 
+    </p>    
 </div>
 
-### ABOUT 
-
-... TBD ... 
-
-### EXPERIENCE
-
-... TBD ...
-
-### PROJECTS
-
-... Planning to release MVPs of my language, tools and engine to open-source in 2025 ... 
 
 <div style="width: 100%; padding: 1%;">
     <img style="width: 300px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
