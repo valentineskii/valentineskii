@@ -9,9 +9,7 @@
     <img style="width: 400px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
     <h1 align="center">Letters don't always have to be filled with lots of flowery language.</h1>
 </div>
-
---- 
-
+<br><br><br>
 <div style="width: 100%; padding: 1%;">
     <div>
         <p>
