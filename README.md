@@ -1,3 +1,7 @@
+<img src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
+<img src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
+<img src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
+
 <div>
     <p>
         <a href="https://valentineskii.github.io/">My GOAT list</a>
