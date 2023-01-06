@@ -15,7 +15,7 @@
 ---
 
 <div>
-    <img style="width: 300px;" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
+    <img style="width: 200px;" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
     <h3 align="center">Contacts</h3>
     <div align="center">
     <!-- <ul align="center" style="list-style-type: none;"> -->
