@@ -23,13 +23,13 @@
 
 <img style="width: 400px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
 <h1 align="center">"Even my failures are a part of who I am today."<br><b>- Kurisu Makise</b></h1>
-<div>
+<div align="center">
     <!-- <ul align="center" style="list-style-type: none;"> -->
-        <li><a href="https://github.com/valentineskii">GitHub</a></li>
-        <li><a href="mailto:valentin.dobrinskii@gmail.com">EMail</a></li>
-        <li><a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a></li>
-        <li><a href="https://t.me/lordkaelthas">Telegram</a></li>
-        <li><a href="https://open.spotify.com/user/hgmca7zdxo58ibbjomksoenqc?si=a5e7ef66cbf74dd3">Spotify</a></li>
+        <!-- <li> --> <a href="https://github.com/valentineskii">GitHub</a> <!-- </li> -->
+        <!-- <li> --> <a href="mailto:valentin.dobrinskii@gmail.com">EMail</a> <!-- </li> -->
+        <!-- <li> --> <a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a> <!-- </li> -->
+        <!-- <li> --> <a href="https://t.me/lordkaelthas">Telegram</a> <!-- </li> -->
+        <!-- <li> --> <a href="https://open.spotify.com/user/hgmca7zdxo58ibbjomksoenqc?si=a5e7ef66cbf74dd3">Spotify</a> <!-- </li> -->
     <!-- </ul> -->
 </div>
 
@@ -39,11 +39,11 @@
 <h1 align="center">"It’s a terrible day for rain."<br><b>- Roy Mustang</b></h1>
 <div align="center">
     <!-- <ul align="center" style="list-style-type: none;"> -->
-        <li><a href="https://valentineskii.github.io/">GOAT list</a></li>
-        <li><a href="http://www.example.org/">A</a></li>
-        <li><a href="http://www.example.org/">B</a></li>
-        <li><a href="http://www.example.org/">C</a></li>
-        <li><a href="http://www.example.org/">D</a></li>
+        <!-- <li> --> <a href="https://valentineskii.github.io/">GOAT list</a> <!-- </li> -->
+        <!-- <li> --> <a href="http://www.example.org/">A</a> <!-- </li> -->
+        <!-- <li> --> <a href="http://www.example.org/">B</a> <!-- </li> -->
+        <!-- <li> --> <a href="http://www.example.org/">C</a> <!-- </li> -->
+        <!-- <li> --> <a href="http://www.example.org/">D</a> <!-- </li> -->
     <!-- </ul> -->
 </div>
 
