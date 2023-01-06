@@ -29,7 +29,8 @@
         <!-- <li> --> <a href="mailto:valentin.dobrinskii@gmail.com">EMail</a> <br>  <!-- </li> -->
         <!-- <li> --> <a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a> <br>  <!-- </li> -->
         <!-- <li> --> <a href="https://t.me/lordkaelthas">Telegram</a> <br>  <!-- </li> -->
-        <!-- <li> --> <a href="https://open.spotify.com/user/hgmca7zdxo58ibbjomksoenqc?si=a5e7ef66cbf74dd3">Spotify</a> <!-- </li> -->
+        <!-- <li> --> <a href="https://open.spotify.com/user/hgmca7zdxo58ibbjomksoenqc?si=a5e7ef66cbf74dd3">Spotify</a> <br> <!-- </li> -->
+        <!-- <li> --> <a href="https://steamcommunity.com/id/valentineskii/">Steam</a> <!-- </li> -->
     <!-- </ul> -->
 </div>
 
