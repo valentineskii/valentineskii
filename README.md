@@ -1,3 +1,9 @@
+<div align="center">
+    <img style="width: 200px;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
+    <h1>Valentin Dobrinskii</h1>
+</div>
+
+---
 
 <div align="center">
     <img style="width: 100%;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
@@ -22,7 +28,6 @@
 ---
 
 <div>
-    <img style="width: 200px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
     <h3 align="center">Contacts</h3>
     <div align="center">
     <!-- <ul align="center" style="list-style-type: none;"> -->
@@ -44,7 +49,7 @@
     <!-- <li> --> <a href="https://valentineskii.github.io/">Greatest things of all time</a> <br> <!-- </li> -->
 </div>
 
----
+<!-- --- -->
 
 <div align="center">
     <img style="width: 100%;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
@@ -52,14 +57,12 @@
     
 </div>
 
----
+<!-- --- -->
 
 <div align="center">
     <img style="width: 100%;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
     <h1 align="center">&laquo; It’s a terrible day for rain. &raquo;<br><b>- Roy Mustang</b></h1>
 </div>
-
---- 
 
 <!--
 ### Hi there 👋
