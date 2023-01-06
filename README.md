@@ -20,9 +20,18 @@
 
 ---
 
+<div>
+    <img style="width: 100%;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
+    <h1 align="center">&laquo; Waku Waku! &raquo;</h1>
+    <!-- <li> --> <a href="https://valentineskii.github.io/">Greatest things of all time</a> <br> <!-- </li> -->
+</div>
+
+---
+
 <div align="center">
     <img style="width: 406px;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
     <h1 align="center">&laquo; Even my failures are a part of who I am today. &raquo;<br><b>- Kurisu Makise</b></h1>
+    <img style="width: 200px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
     <!-- <ul align="center" style="list-style-type: none;"> -->
         <!-- <li> --> <a href="https://github.com/valentineskii">GitHub</a> <br>  <!-- </li> -->
         <!-- <li> --> <a href="mailto:valentin.dobrinskii@gmail.com">EMail</a> <br>  <!-- </li> -->
@@ -39,7 +48,6 @@
     <img style="width: 400px;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
     <h1 align="center">&laquo; It’s a terrible day for rain. &raquo;<br><b>- Roy Mustang</b></h1>
     <!-- <ul align="center" style="list-style-type: none;"> -->
-        <!-- <li> --> <a href="https://valentineskii.github.io/">GOAT list</a> <br> <!-- </li> -->
         <!-- <li> --> <a href="http://www.example.org/">A</a> <br>  <!-- </li> -->
         <!-- <li> --> <a href="http://www.example.org/">B</a> <br>  <!-- </li> -->
         <!-- <li> --> <a href="http://www.example.org/">C</a> <br>  <!-- </li> -->
