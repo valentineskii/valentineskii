@@ -9,20 +9,19 @@
         <span>tbd</span> 
         <h3>Projects</h3> 
         <span>tbd</span>
-        <br>
-        <div>
-            <img style="width: 200px;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
-            <h3>Contacts</h3>
-            <!-- <ul align="center" style="list-style-type: none;"> -->
-                <!-- <li> --> <a href="https://github.com/valentineskii">GitHub</a> <br>  <!-- </li> -->
-                <!-- <li> --> <a href="mailto:valentin.dobrinskii@gmail.com">EMail</a> <br>  <!-- </li> -->
-                <!-- <li> --> <a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a> <br>  <!-- </li> -->
-                <!-- <li> --> <a href="https://t.me/lordkaelthas">Telegram</a> <br>  <!-- </li> -->
-                <!-- <li> --> <a href="https://open.spotify.com/user/hgmca7zdxo58ibbjomksoenqc?si=a5e7ef66cbf74dd3">Spotify</a> <br> <!-- </li> -->
-                <!-- <li> --> <a href="https://steamcommunity.com/id/valentineskii/">Steam</a> <!-- </li> -->
-            <!-- </ul> -->
-        </div>
     </p>
+    <div align="center">
+        <img style="width: 200px;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
+        <h3>Contacts</h3>
+        <!-- <ul align="center" style="list-style-type: none;"> -->
+            <!-- <li> --> <a href="https://github.com/valentineskii">GitHub</a> <br>  <!-- </li> -->
+            <!-- <li> --> <a href="mailto:valentin.dobrinskii@gmail.com">EMail</a> <br>  <!-- </li> -->
+            <!-- <li> --> <a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a> <br>  <!-- </li> -->
+            <!-- <li> --> <a href="https://t.me/lordkaelthas">Telegram</a> <br>  <!-- </li> -->
+            <!-- <li> --> <a href="https://open.spotify.com/user/hgmca7zdxo58ibbjomksoenqc?si=a5e7ef66cbf74dd3">Spotify</a> <br> <!-- </li> -->
+            <!-- <li> --> <a href="https://steamcommunity.com/id/valentineskii/">Steam</a> <!-- </li> -->
+        <!-- </ul> -->
+    </div>
 </div>
 
 ---
