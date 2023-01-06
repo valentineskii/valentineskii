@@ -8,8 +8,6 @@
     <p>tbd1</p>
     <p>tbd2</p>
     <p>tbd3</p>
-    <p>tbd4</p>
-    <p>tbd5</p>
 </div>
 
 ---
@@ -37,12 +35,12 @@
 <div align="center">
     <h3 align="center">Contacts</h3>
     <!-- <ul align="center" style="list-style-type: none;"> -->
-        <!-- <li> --> <a href="https://github.com/valentineskii">GitHub</a> <br>  <!-- </li> -->
-        <!-- <li> --> <a href="mailto:valentin.dobrinskii@gmail.com">EMail</a> <br>  <!-- </li> -->
-        <!-- <li> --> <a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a> <br>  <!-- </li> -->
-        <!-- <li> --> <a href="https://t.me/lordkaelthas">Telegram</a> <br>  <!-- </li> -->
-        <!-- <li> --> <a href="https://open.spotify.com/user/hgmca7zdxo58ibbjomksoenqc?si=a5e7ef66cbf74dd3">Spotify</a> <br> <!-- </li> -->
-        <!-- <li> --> <a href="https://steamcommunity.com/id/valentineskii/">Steam</a> <!-- </li> -->
+        <!-- <li> --> <h2> <a href="https://github.com/valentineskii">GitHub</a> </hr2>  <!-- </li> -->
+        <!-- <li> --> <h2> <a href="mailto:valentin.dobrinskii@gmail.com">EMail</a> </hr2>  <!-- </li> -->
+        <!-- <li> --> <h2> <a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a> </hr2>  <!-- </li> -->
+        <!-- <li> --> <h2> <a href="https://t.me/lordkaelthas">Telegram</a> </hr2>  <!-- </li> -->
+        <!-- <li> --> <h2> <a href="https://open.spotify.com/user/hgmca7zdxo58ibbjomksoenqc?si=a5e7ef66cbf74dd3">Spotify</a> </hr2> <!-- </li> -->
+        <!-- <li> --> <h2> <a href="https://steamcommunity.com/id/valentineskii/">Steam</a> </hr2> <!-- </li> -->
     <!-- </ul> -->
 </div>
 
@@ -51,7 +49,7 @@
 <div align="center">
     <img style="width: 100%;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
     <h1 align="center">&laquo; Waku Waku! &raquo;</h1>
-    <!-- <li> --> <a href="https://valentineskii.github.io/">Greatest things of all time</a> <br> <!-- </li> -->
+    <!-- <li> --> <h3><a href="https://valentineskii.github.io/">Greatest things of all time</a></h3> <!-- </li> -->
 </div>
 
 ---
