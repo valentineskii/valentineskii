@@ -3,7 +3,7 @@
     <h1>valentineskii</h1>
 </div>
 
-<div>
+<div align="center">
     <h3>Newsfeed</h3> 
     <ul>
         <li>tbd1</li>
