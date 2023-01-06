@@ -3,26 +3,33 @@
     <h1>valentineskii</h1>
 </div>
 
+<div>
+    <h3>Newsfeed</h3> 
+    <ul>
+        <li>tbd1</li>
+        <li>tbd2</li>
+        <li>tbd3</li>
+        <li>tbd4</li>
+        <li>tbd5</li>
+    </ul>
+</div>
+
+---
+
 <div align="center">
     <img style="width: 100%;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
     <h1 align="center">&laquo; Letters don't always have to be filled<br>with lots of flowery language. &raquo;<br><b>- Claudia Hodgins</b></h1>
 </div>
-
----
 
 <div align="center">
     <h3 align="center">About</h3> 
     <span>tbd</span>
 </div>
 
----
-
 <div align="center">
     <h3 align="center">Experience</h3>
     <span>tbd</span> 
 </div>
-
----
 
 <div align="center">
     <h3 align="center">Projects</h3> 
