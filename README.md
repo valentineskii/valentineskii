@@ -2,20 +2,27 @@
 <div align="center">
     <img style="width: 100%;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
     <h1 align="center">&laquo; Letters don't always have to be filled<br>with lots of flowery language. &raquo;<br><b>- Claudia Hodgins</b></h1>
-    <p>
-        <h3>About</h3> 
-        <span>tbd</span>
-        <h3>Experience</h3>
-        <span>tbd</span> 
-        <h3>Projects</h3> 
-        <span>tbd</span>
-    </p>
 </div>
 
 ---
 
+<h3 align="center">About</h3> 
+<span>tbd</span>
+
+---
+
+<h3 align="center">Experience</h3>
+<span>tbd</span> 
+
+---
+
+<h3 align="center">Projects</h3> 
+<span>tbd</span>
+
+---
+
 <div>
-    <img style="width: 200px;" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
+    <img style="width: 200px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
     <h3 align="center">Contacts</h3>
     <div align="center">
     <!-- <ul align="center" style="list-style-type: none;"> -->
