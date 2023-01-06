@@ -9,8 +9,8 @@
         <span>tbd</span> 
         <h3>Projects</h3> 
         <span>tbd</span>
-        <img style="width: 200px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
-        <h3>Contact me</h3>
+        <img style="width: 200px;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
+        <h3>Contacts</h3>
         <!-- <ul align="center" style="list-style-type: none;"> -->
         <!-- <li> --> <a href="https://github.com/valentineskii">GitHub</a> <br>  <!-- </li> -->
         <!-- <li> --> <a href="mailto:valentin.dobrinskii@gmail.com">EMail</a> <br>  <!-- </li> -->
