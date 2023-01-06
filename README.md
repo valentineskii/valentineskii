@@ -55,7 +55,7 @@
     <!-- </ul> -->
 </div>
 
-<!-- --- -->
+---
 
 <div align="center">
     <img style="width: 100%;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
