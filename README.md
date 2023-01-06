@@ -23,7 +23,6 @@
 
 <img style="width: 400px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
 <h1 align="center">"Even my failures are a part of who I am today."<br><b>- Kurisu Makise</b></h1>
-<br><br>
 <div>
     <ul>
         <li><a href="https://github.com/valentineskii">GitHub</a></li>
@@ -38,10 +37,9 @@
 
 <img style="width: 400px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
 <h1 align="center">"It’s a terrible day for rain."<br><b>- Roy Mustang</b></h1>
-<br><br>
 <div>
     <ul>
-        <li><a href="https://valentineskii.github.io/">GOAT list</a></li>
+        <dl><dd><li><a href="https://valentineskii.github.io/">GOAT list</a></li></dd></dl>
     </ul>
 </div>
 
