@@ -12,24 +12,29 @@
 
 ---
 
-<h3 align="center">About</h3> 
-<span>tbd</span>
+<div align="center">
+    <h3 align="center">About</h3> 
+    <span>tbd</span>
+</div>
 
 ---
 
-<h3 align="center">Experience</h3>
-<span>tbd</span> 
+<div align="center">
+    <h3 align="center">Experience</h3>
+    <span>tbd</span> 
+</div>
 
 ---
 
-<h3 align="center">Projects</h3> 
-<span>tbd</span>
+<div align="center">
+    <h3 align="center">Projects</h3> 
+    <span>tbd</span>
+</div>
 
 ---
 
-<div>
+<div align="center">
     <h3 align="center">Contacts</h3>
-    <div align="center">
     <!-- <ul align="center" style="list-style-type: none;"> -->
         <!-- <li> --> <a href="https://github.com/valentineskii">GitHub</a> <br>  <!-- </li> -->
         <!-- <li> --> <a href="mailto:valentin.dobrinskii@gmail.com">EMail</a> <br>  <!-- </li> -->
@@ -38,7 +43,6 @@
         <!-- <li> --> <a href="https://open.spotify.com/user/hgmca7zdxo58ibbjomksoenqc?si=a5e7ef66cbf74dd3">Spotify</a> <br> <!-- </li> -->
         <!-- <li> --> <a href="https://steamcommunity.com/id/valentineskii/">Steam</a> <!-- </li> -->
     <!-- </ul> -->
-    </div>
 </div>
 
 ---
