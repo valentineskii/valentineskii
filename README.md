@@ -53,7 +53,7 @@
     <!-- <li> --> <a href="https://valentineskii.github.io/">Greatest things of all time</a> <br> <!-- </li> -->
 </div>
 
-<!-- --- -->
+---
 
 <div align="center">
     <img style="width: 100%;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
