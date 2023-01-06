@@ -1,9 +1,7 @@
 <div align="center">
     <img style="width: 200px;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
-    <h1>Valentin Dobrinskii</h1>
+    <h1>valentineskii</h1>
 </div>
-
----
 
 <div align="center">
     <img style="width: 100%;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
