@@ -9,7 +9,7 @@
         <span>tbd</span> 
         <h3>Projects</h3> 
         <span>tbd</span>
-        <img style="width: 100%;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
+        <img style="width: 200px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
         <h3>Contact me</h3>
         <!-- <ul align="center" style="list-style-type: none;"> -->
         <!-- <li> --> <a href="https://github.com/valentineskii">GitHub</a> <br>  <!-- </li> -->
@@ -24,7 +24,7 @@
 
 ---
 
-<div>
+<div align="center">
     <img style="width: 100%;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
     <h1 align="center">&laquo; Waku Waku! &raquo;</h1>
     <!-- <li> --> <a href="https://valentineskii.github.io/">Greatest things of all time</a> <br> <!-- </li> -->
