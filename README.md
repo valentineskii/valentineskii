@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img style="width: 400px;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
+    <img style="width: 100%;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
     <h1 align="center">&laquo; Letters don't always have to be filled<br>with lots of flowery language. &raquo;<br><b>- Claudia Hodgins</b></h1>
     <p>
         <h3>About</h3> 
@@ -9,7 +9,7 @@
         <span>tbd</span> 
         <h3>Projects</h3> 
         <span>tbd</span>
-        <img style="width: 300px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
+        <img style="width: 100%;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
         <h3>Contact me</h3>
         <!-- <ul align="center" style="list-style-type: none;"> -->
         <!-- <li> --> <a href="https://github.com/valentineskii">GitHub</a> <br>  <!-- </li> -->
@@ -33,7 +33,7 @@
 ---
 
 <div align="center">
-    <img style="width: 406px;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
+    <img style="width: 100%;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
     <h1 align="center">&laquo; Even my failures are a part of who I am today. &raquo;<br><b>- Kurisu Makise</b></h1>
     
 </div>
@@ -41,7 +41,7 @@
 ---
 
 <div align="center">
-    <img style="width: 400px;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
+    <img style="width: 100%;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
     <h1 align="center">&laquo; It’s a terrible day for rain. &raquo;<br><b>- Roy Mustang</b></h1>
 </div>
 
