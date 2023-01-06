@@ -21,20 +21,18 @@
 
 <div align="center">
     <h3 align="center">About</h3> 
-    <span>tbd</span>
+    <p>tbd</p>
 </div>
 
 <div align="center">
     <h3 align="center">Experience</h3>
-    <span>tbd</span> 
+    <p>tbd</p> 
 </div>
 
 <div align="center">
     <h3 align="center">Projects</h3> 
-    <span>tbd</span>
+    <p>tbd</p>
 </div>
-
----
 
 <div align="center">
     <h3 align="center">Contacts</h3>
