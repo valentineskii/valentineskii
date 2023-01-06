@@ -40,6 +40,10 @@
 <div align="center">
     <ul align="center" style="list-style-type: none;">
         <li><a href="https://valentineskii.github.io/">GOAT list</a></li>
+        <li><a href="http://www.example.org/">A</a></li>
+        <li><a href="http://www.example.org/">B</a></li>
+        <li><a href="http://www.example.org/">C</a></li>
+        <li><a href="http://www.example.org/">D</a></li>
     </ul>
 </div>
 
