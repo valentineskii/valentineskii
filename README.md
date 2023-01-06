@@ -1,13 +1,7 @@
 <div align="center">
-    <img style="width: 300px;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
+    <img style="width: 250px;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
     <h1>valentineskii</h1>
-</div>
-
-<div align="center">
-    <h3>Newsfeed</h3> 
-    <p>tbd1</p>
-    <p>tbd2</p>
-    <p>tbd3</p>
+    <!-- <li> --> <h3><a href=""></a></h3> <!-- </li> -->
 </div>
 
 ---
@@ -51,6 +45,7 @@
         <!-- <li> --> <h3> <a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a> </hr3>  <!-- </li> -->
         <!-- <li> --> <h3> <a href="https://t.me/lordkaelthas">Telegram</a> </hr3>  <!-- </li> -->
         <!-- <li> --> <h3> <a href="https://open.spotify.com/user/hgmca7zdxo58ibbjomksoenqc?si=a5e7ef66cbf74dd3">Spotify</a> </hr3> <!-- </li> -->
+        <!-- <li> --> <h3> <a href="https://www.twitch.tv/valentineskii">Twitch</a> </hr3> <!-- </li> -->
         <!-- <li> --> <h3> <a href="https://steamcommunity.com/id/valentineskii/">Steam</a> </hr3> <!-- </li> -->
     <!-- </ul> -->
 </div>
