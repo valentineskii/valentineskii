@@ -15,7 +15,7 @@
         <h3>Experience</h3>
         <span>tbd</span> 
         <h3>Projects</h3> 
-        <span>Planning to release MVPs of my language, tools and engine to open-source in 2025.</span> 
+        <span>tbd</span> 
     </p>
 </div>
 
