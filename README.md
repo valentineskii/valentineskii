@@ -7,7 +7,7 @@
 
 <div align="center">
     <img style="width: 400px;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
-    <h1 align="center">&laquo; Letters don't always have to be filled with lots of flowery language. &raquo;<br><b>- Claudia Hodgins</b></h1>
+    <h1 align="center">&laquo; Letters don't always have to be filled<br>with lots of flowery language. &raquo;<br><b>- Claudia Hodgins</b></h1>
     <p>
         <h3>About</h3> 
         <span>tbd</span>
