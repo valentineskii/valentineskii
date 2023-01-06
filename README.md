@@ -5,7 +5,8 @@
 
 --- 
 
-| <img style="width: 400px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/> | <h1 align="center">Letters don't always have to be filled with lots of flowery language.<br><b>Claudia Hodgins</b></h1> |
+<img style="width: 400px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/violett_evergarden.gif"/>
+<h1 align="center">Letters don't always have to be filled with lots of flowery language.<br><b>Claudia Hodgins</b></h1>
 <div>
     <p>
         <h3>About</h3> 
@@ -19,7 +20,8 @@
 
 ---
 
-| <h1 align="center">Even my failures are a part of who I am today.</h1> | <img style="width: 400px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/> |
+<h1 align="center">Even my failures are a part of who I am today.</h1>
+<img style="width: 400px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
 <div>
     <ul>
         <li><a href="https://github.com/valentineskii">GitHub</a></li>
@@ -32,7 +34,8 @@
 
 ---
 
-| <img style="width: 400px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/> | <h1 align="center">It’s a terrible day for rain.</h1> |
+<img style="width: 400px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
+<h1 align="center">It’s a terrible day for rain.</h1>
 <div>
     <ul>
         <li><a href="https://valentineskii.github.io/">GOAT list</a></li>
