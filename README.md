@@ -1,7 +1,9 @@
 <div align="center">
     <img style="width: 200px;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
-    <h1>valentineskii</h1>
-    <!-- <li> --> <h3><a href=""></a></h3> <!-- </li> -->
+    <h1>@valentineskii</h1>
+    <!-- <li> --> <h3><a href="https://www.example.org">Most recent X</a></h3> <!-- </li> -->
+    <!-- <li> --> <h3><a href="https://www.example.org">Some article Y</a></h3> <!-- </li> -->
+    <!-- <li> --> <h3><a href="https://www.example.org">Why am I here N</a></h3> <!-- </li> -->
 </div>
 
 ---
@@ -41,8 +43,8 @@
     <h1 align="center">&laquo; Waku Waku! &raquo;</h1>
     <!-- <ul align="center" style="list-style-type: none;"> -->
         <!-- <li> -> <h3> <a href="https://github.com/valentineskii">GitHub</a> </hr3>  <!- </li> -->
-        <!-- <li> --> <h3> <a href="mailto:valentin.dobrinskii@gmail.com">Email</a> </hr3>  <!-- </li> -->
         <!-- <li> --> <h3> <a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a> </hr3>  <!-- </li> -->
+        <!-- <li> --> <h3> <a href="mailto:valentin.dobrinskii@gmail.com">Email</a> </hr3>  <!-- </li> -->
         <!-- <li> --> <h3> <a href="https://t.me/lordkaelthas">Telegram</a> </hr3>  <!-- </li> -->
         <!-- <li> --> <h3> <a href="https://open.spotify.com/user/hgmca7zdxo58ibbjomksoenqc?si=a5e7ef66cbf74dd3">Spotify</a> </hr3> <!-- </li> -->
         <!-- <li> --> <h3> <a href="https://www.twitch.tv/valentineskii">Twitch</a> </hr3> <!-- </li> -->
