@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="width: 200px;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
+    <img style="width: 300px;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
     <h1>valentineskii</h1>
 </div>
 
