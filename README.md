@@ -24,7 +24,7 @@
 <img style="width: 400px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
 <h1 align="center">"Even my failures are a part of who I am today."<br><b>- Kurisu Makise</b></h1>
 <div>
-    <ul>
+    <ul align="center" style="list-style-type: none;">
         <li><a href="https://github.com/valentineskii">GitHub</a></li>
         <li><a href="mailto:valentin.dobrinskii@gmail.com">EMail</a></li>
         <li><a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a></li>
@@ -38,7 +38,7 @@
 <img style="width: 400px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
 <h1 align="center">"It’s a terrible day for rain."<br><b>- Roy Mustang</b></h1>
 <div align="center">
-    <ul align="center">
+    <ul align="center" style="list-style-type: none;">
         <li><a href="https://valentineskii.github.io/">GOAT list</a></li>
     </ul>
 </div>
