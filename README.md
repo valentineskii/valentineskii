@@ -42,9 +42,11 @@
 <div style="width: 100%; padding: 1%;">
     <img style="width: 400px;" alt="GIF" align="left" src="https://github.com/valentineskii/valentineskii/blob/main/assets/roy_mustang.gif"/>
     <h1 align="center">It’s a terrible day for rain.</h1>
+    <dl><dd>
     <ul style="margin-left: 10px;">
-        &nbsp;&nbsp;<li><a href="https://valentineskii.github.io/">GOAT list</a></li>
+        <li><a href="https://valentineskii.github.io/">GOAT list</a></li>
     </ul>
+    </dd></dl>
 </div>
 
 --- 
