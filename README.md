@@ -9,6 +9,7 @@
         <span>tbd</span> 
         <h3>Projects</h3> 
         <span>tbd</span>
+        <br>
         <div>
             <img style="width: 200px;" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/sticker.gif"/>
             <h3>Contacts</h3>
