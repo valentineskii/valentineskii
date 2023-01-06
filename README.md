@@ -21,7 +21,7 @@
 
 ---
 
-<img style="width: 400px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
+<img style="width: 410px;" align="right" src="https://github.com/valentineskii/valentineskii/blob/main/assets/kurisu_makise.gif"/>
 <h1 align="center">"Even my failures are a part of who I am today."<br><b>- Kurisu Makise</b></h1>
 <div align="center">
     <!-- <ul align="center" style="list-style-type: none;"> -->
