@@ -5,13 +5,11 @@
 
 <div align="center">
     <h3>Newsfeed</h3> 
-    <ul>
-        <li>tbd1</li>
-        <li>tbd2</li>
-        <li>tbd3</li>
-        <li>tbd4</li>
-        <li>tbd5</li>
-    </ul>
+    <span>tbd1</span>
+    <span>tbd2</span>
+    <span>tbd3</span>
+    <span>tbd4</span>
+    <span>tbd5</span>
 </div>
 
 ---
