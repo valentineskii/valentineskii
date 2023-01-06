@@ -18,29 +18,29 @@
 </div>
 
 <div align="center">
-    <h3 align="center">About</h3> 
+    <h2 align="center">About</h3> 
     <p>tbd</p>
 </div>
 
 <div align="center">
-    <h3 align="center">Experience</h3>
+    <h2 align="center">Experience</h3>
     <p>tbd</p> 
 </div>
 
 <div align="center">
-    <h3 align="center">Projects</h3> 
+    <h2 align="center">Projects</h3> 
     <p>tbd</p>
 </div>
 
 <div align="center">
-    <h3 align="center">Contacts</h3>
+    <h2 align="center">Contacts</h2>
     <!-- <ul align="center" style="list-style-type: none;"> -->
-        <!-- <li> --> <h2> <a href="https://github.com/valentineskii">GitHub</a> </hr2>  <!-- </li> -->
-        <!-- <li> --> <h2> <a href="mailto:valentin.dobrinskii@gmail.com">EMail</a> </hr2>  <!-- </li> -->
-        <!-- <li> --> <h2> <a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a> </hr2>  <!-- </li> -->
-        <!-- <li> --> <h2> <a href="https://t.me/lordkaelthas">Telegram</a> </hr2>  <!-- </li> -->
-        <!-- <li> --> <h2> <a href="https://open.spotify.com/user/hgmca7zdxo58ibbjomksoenqc?si=a5e7ef66cbf74dd3">Spotify</a> </hr2> <!-- </li> -->
-        <!-- <li> --> <h2> <a href="https://steamcommunity.com/id/valentineskii/">Steam</a> </hr2> <!-- </li> -->
+        <!-- <li> --> <h3> <a href="https://github.com/valentineskii">GitHub</a> </hr3>  <!-- </li> -->
+        <!-- <li> --> <h3> <a href="mailto:valentin.dobrinskii@gmail.com">EMail</a> </hr3>  <!-- </li> -->
+        <!-- <li> --> <h3> <a href="https://www.linkedin.com/in/valentin-dobrinskii/">LinkedIn</a> </hr3>  <!-- </li> -->
+        <!-- <li> --> <h3> <a href="https://t.me/lordkaelthas">Telegram</a> </hr3>  <!-- </li> -->
+        <!-- <li> --> <h3> <a href="https://open.spotify.com/user/hgmca7zdxo58ibbjomksoenqc?si=a5e7ef66cbf74dd3">Spotify</a> </hr3> <!-- </li> -->
+        <!-- <li> --> <h3> <a href="https://steamcommunity.com/id/valentineskii/">Steam</a> </hr3> <!-- </li> -->
     <!-- </ul> -->
 </div>
 
