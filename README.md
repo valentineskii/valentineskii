@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>Waku Waku!</h1>
     <img style="width: 100%;" alt="GIF" align="center" src="https://github.com/valentineskii/valentineskii/blob/main/assets/anya_forger.gif"/>
+    <h1 align="center">&laquo; Waku Waku! &raquo;</h1>
 </div>
 
 ---
